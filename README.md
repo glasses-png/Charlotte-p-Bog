@@ -1,4 +1,4 @@
-# Charlotte-p-
+# Charlotte-p-Blog
 
 ## Author
 Charlotte Chelang'at
