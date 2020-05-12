@@ -1,12 +1,10 @@
-# D-Blog
-## Author
+# Charlotte-p-
 
-[Owiti-Charles](https://github.com/Owiti-Charles)
+## Author
+Charlotte Chelang'at
 
 # Description
 This  is a flask application that allows writers to post blogs, edit and delite blogs. It also allows users who have signed up to comment on the blogs that has been posted by a writer. It also allows a person to subscribed to recieve email everytime a new blog is posted by a writer.
-
-
 
 
 ## User Story
@@ -26,10 +24,7 @@ This  is a flask application that allows writers to post blogs, edit and delite 
 | Select Login | **Username** and **password** | Redirect to page with blogs that have been posted by writes and be able to subscribe to the blog|
 | Select comment button | **Comment** | Form that you input your comment|
 | Click on submit |  | Redirect to all comments tamplate with your comment and other comments|
-|Subscription | **Email Address**| Flash message "Succesfully subsbribed to D-Blog"|
-
-
-
+|Subscription | **Email Address**| Flash message "Succesfully subsbribed to Charlotte-p-Blog"|
 
 
 ## Development Installation
@@ -37,11 +32,11 @@ To get the code..
 
 1. Cloning the repository:
   ```bash
-  https://github.com/Owiti-Charles/D-Blog.git
+ https://github.com/glasses-png/Charlotte-p-Bog.git
   ```
 2. Move to the folder and install requirements
   ```bash
-  cd D-Blog
+  cd Charlotte-p-Blog
   pip install -r requirements.txt
   ```
 3. Exporting Configurations
@@ -61,9 +56,10 @@ Open the application on your browser `127.0.0.1:5000`.
 
 ## Technology used
 
-* [Python3.6](https://www.python.org/)
-* [Flask](http://flask.pocoo.org/)
-* [Heroku](https://heroku.com)
+* Python3.6
+* Flask
+* Javascript
+* Heroku
 
 
 ## Known Bugs
@@ -71,8 +67,8 @@ Open the application on your browser `127.0.0.1:5000`.
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [mikeycharlesm7@gmail.com]
+If you have any question or contributions, please email me at [cchelangat16@gmail.com]
 
 ## License
-* *MIT License:*
-* Copyright (c) 2019 **Owiti Charles**
+* MIT License:
+* Copyright (c) 2020 **Charlotte Chelang'at**
