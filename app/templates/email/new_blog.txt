@@ -5,6 +5,6 @@ A new blog was posted
 Title: {{blog.title}}
 Post: {{blog.content|truncate(30)}}
 
-Regards,
+Cheers,
 
-D-Bloger - Charles
+Charlotte-p-blog
